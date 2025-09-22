@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitHub/wjin08)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjin08)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
