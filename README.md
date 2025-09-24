@@ -63,7 +63,7 @@
 
 ### 🛗 엘리베이터 가용체적 판단 및 스케쥴링 디바이스  
 > YOLOv7, Jetson Nano, Python, roboflow, AI  
-![YOLOv7](https://img.shields.io/badge/YOLOv7-00FFFF?style=flat-square&logo=github&logoColor=black) ![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-76B900?style=flat-square&logo=nvidia&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![roboflow](https://img.shields.io/badge/roboflow-FF6F00?style=flat-square&logo=roboflow&logoColor=white) ![AI](https://img.shields.io/badge/AI-FF1493?style=flat-square&logo=openai&logoColor=white)  
+![YOLOv7](https://img.shields.io/badge/YOLOv7-00FFFF?style=flat-square&logo=github&logoColor=black) ![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-76B900?style=flat-square&logo=nvidia&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![roboflow](https://img.shields.io/badge/roboflow-FF6F00?style=flat-square&logo=roboflow&logoColor=white) 
 
 ---
 
@@ -75,7 +75,7 @@
 
 ### 👕 시각장애인 코디 추천 디바이스  
 > YOLO-X, Jetson Nano, Python, C, Qt, OpenVino, OpenCV, AI  
-![YOLO-X](https://img.shields.io/badge/YOLO--X-FFB6C1?style=flat-square&logo=github&logoColor=black) ![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-76B900?style=flat-square&logo=nvidia&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white) ![OpenVINO](https://img.shields.io/badge/OpenVINO-0071C5?style=flat-square&logo=intel&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![AI](https://img.shields.io/badge/AI-FF1493?style=flat-square&logo=openai&logoColor=white)  
+![YOLO-X](https://img.shields.io/badge/YOLO--X-FFB6C1?style=flat-square&logo=github&logoColor=black) ![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-76B900?style=flat-square&logo=nvidia&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white) ![OpenVINO](https://img.shields.io/badge/OpenVINO-0071C5?style=flat-square&logo=intel&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 ---
 
