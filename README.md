@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=0D1B2A&height=150&section=header&text=Welcome!%20😊&fontSize=40&fontColor=ffffff&desc=A%20practical%20talent%20who%20combines%20technology%20and%20communication%2C%20Bang%20Jin-hyuk.&descAlignY=75&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0D1B2A&height=150&section=header&text=Welcome!%20😊&fontSize=40&fontColor=ffffff&desc=HI%20.&descAlignY=75&descAlign=50)
 
 <div align="center">
  
