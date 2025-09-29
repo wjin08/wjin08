@@ -42,9 +42,9 @@
 
 | 날짜       | 자격증명          | 발급기관         |
 |-----------|------------------|----------------|
-| 2025.02.15 | TOEIC 955        | 한국 TOEIC 위원회 |
-| 2025.02.10 | OPIC AL          | ACTCFL OPIC     |
-| 2020.     | 운전면허 2종 보통 | 도로교통공단     |
+| 2025.01.12 | TOEIC 955        | YBM |
+| 2025.01.23 | OPIC AL          | ACTFL OPIc     |
+| 2019.02.19     | 운전면허 2종 보통 | 경찰청     |
 
 ---
 
@@ -78,12 +78,12 @@
  
 [![Open Project](https://img.shields.io/badge/4_Your_Eyez_Only-Intel7_AI_Project-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wjin08/4_Your_Eyez_Only)
 
+**Click Me :**    [![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)](https://github.com/wjin08/4_Your_Eyez_Only/tree/main/qt/4YEO_Server_Manager) 
+[![OpenVINO](https://img.shields.io/badge/OpenVINO-0071C5?style=flat-square&logo=intel&logoColor=white)]([https://github.com/wjin08/4_Your_Eyez_Only](https://github.com/wjin08/4_Your_Eyez_Only/tree/main/for_Jetson/openvino)) 
 
 ![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-76B900?style=flat-square&logo=nvidia&logoColor=white)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/wjin08/4_Your_Eyez_Only) 
 [![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)](https://github.com/wjin08/4_Your_Eyez_Only) 
-[![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)](https://github.com/wjin08/4_Your_Eyez_Only/tree/main/qt/4YEO_Server_Manager) 
-[![OpenVINO](https://img.shields.io/badge/OpenVINO-0071C5?style=flat-square&logo=intel&logoColor=white)](https://github.com/wjin08/4_Your_Eyez_Only) 
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://github.com/wjin08/4_Your_Eyez_Only)  
 
 
@@ -93,8 +93,11 @@
 
 [![Open Project](https://img.shields.io/badge/Hands_are_Faster_Than_Eyes-Intel7_Vison_OpenCV_Project-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wjin08/Intel7_Vison_Dev_Project)
 
+**Click Me :**  [![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)](https://github.com/wjin08/Intel7_Vison_Dev_Project/tree/main/src/qt)  [![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)](https://github.com/wjin08/Intel7_Vison_Dev_Project/tree/main/src/rsp_server)  [![BSP](https://img.shields.io/badge/BSP-2F4F4F?style=flat-square&logo=arm&logoColor=white)](https://github.com/wjin08/Intel7_Vison_Dev_Project/tree/main/src/rsp_server)
 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white) ![BSP](https://img.shields.io/badge/BSP-2F4F4F?style=flat-square&logo=arm&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)  
+
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)  
 
 ---
 
