@@ -62,21 +62,24 @@
 
 ---
 
-### 🛗 엘리베이터 가용체적 판단 및 스케쥴링 디바이스  
+### 🛗 엘리베이터 가용체적 판단 및 스케쥴링 디바이스 (Lift Vision)
 
 ![YOLOv7](https://img.shields.io/badge/YOLOv7-00FFFF?style=flat-square&logo=github&logoColor=black) ![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-76B900?style=flat-square&logo=nvidia&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![roboflow](https://img.shields.io/badge/roboflow-FF6F00?style=flat-square&logo=roboflow&logoColor=white) 
 
 ---
 
-### 🌱 스마트 화분 (자동 급수 + 이용자 피드백)  
+### 🌱 자동 급수, 조명 + 이용자 피드백 스마트 화분 (Plant-San) 
+
+**Click Me ->**  [![Open Project](https://img.shields.io/badge/プラントさん-Intel7_Mini_Project-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wjin08/Plant_San)
+
 
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)  ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)  
 
 ---
 
-### 👕 시각장애인 코디 추천 웨어러블 디바이스  
+### 👕 시각장애인 코디 추천 웨어러블 디바이스 (4 Your Eyez Only)
  
-[![Open Project](https://img.shields.io/badge/4_Your_Eyez_Only-Intel7_AI_Project-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wjin08/4_Your_Eyez_Only)
+**Click Me ->**  [![Open Project](https://img.shields.io/badge/4_Your_Eyez_Only-Intel7_AI_Project-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wjin08/4_Your_Eyez_Only)
 
 [![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)](https://github.com/wjin08/4_Your_Eyez_Only/tree/main/qt/4YEO_Server_Manager) 
 [![OpenVINO](https://img.shields.io/badge/OpenVINO-0071C5?style=flat-square&logo=intel&logoColor=white)](https://github.com/wjin08/4_Your_Eyez_Only/tree/main/for_Jetson/openvino) ![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-76B900?style=flat-square&logo=nvidia&logoColor=white)
@@ -87,9 +90,9 @@
 
 ---
 
-### ✋ 손 동작 인식 디바이스 제어 프로그램   
+### ✋ 손 동작 인식 디바이스 제어 프로그램 (손은 눈보다 빠르다)
 
-[![Open Project](https://img.shields.io/badge/Hands_are_Faster_Than_Eyes-Intel7_Vison_OpenCV_Project-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wjin08/Intel7_Vison_Dev_Project)
+**Click Me ->**  [![Open Project](https://img.shields.io/badge/Hands_are_Faster_Than_Eyes-Intel7_Vison_OpenCV_Project-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wjin08/Intel7_Vison_Dev_Project)
 
 [![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)](https://github.com/wjin08/Intel7_Vison_Dev_Project/tree/main/src/qt)  [![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)](https://github.com/wjin08/Intel7_Vison_Dev_Project/tree/main/src/rsp_server)  [![BSP](https://img.shields.io/badge/BSP-2F4F4F?style=flat-square&logo=arm&logoColor=white)](https://github.com/wjin08/Intel7_Vison_Dev_Project/tree/main/src/rsp_server) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)  ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)  
 
