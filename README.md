@@ -79,7 +79,8 @@
 [![Open Project](https://img.shields.io/badge/4_Your_Eyez_Only-Intel7_AI_Project-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wjin08/4_Your_Eyez_Only)
 
 **Click Me :**    [![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)](https://github.com/wjin08/4_Your_Eyez_Only/tree/main/qt/4YEO_Server_Manager) 
-[![OpenVINO](https://img.shields.io/badge/OpenVINO-0071C5?style=flat-square&logo=intel&logoColor=white)]([https://github.com/wjin08/4_Your_Eyez_Only](https://github.com/wjin08/4_Your_Eyez_Only/tree/main/for_Jetson/openvino)) 
+[![OpenVINO](https://img.shields.io/badge/OpenVINO-0071C5?style=flat-square&logo=intel&logoColor=white)](https://github.com/wjin08/4_Your_Eyez_Only/tree/main/for_Jetson/openvino)
+
 
 ![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-76B900?style=flat-square&logo=nvidia&logoColor=white)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/wjin08/4_Your_Eyez_Only) 
