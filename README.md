@@ -50,38 +50,50 @@
 
 # 🚀 My Projects 🚀  
 
-### 🗑️ 한강공원 저속 자율주행 쓰레기통 개발  
-> Arduino, Android, C  
+### 🗑️ 한강공원 자율주행 쓰레기통 
+
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)  
 
 ---
 
-### 🎒 해외여행 가방 소매치기/도난 방지 제품  
-> ESP32, Android, C  
+### 🎒 해외여행 가방 소매치기/도난 방지 디바이스
+
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)  
 
 ---
 
 ### 🛗 엘리베이터 가용체적 판단 및 스케쥴링 디바이스  
-> YOLOv7, Jetson Nano, Python, roboflow, AI  
+
 ![YOLOv7](https://img.shields.io/badge/YOLOv7-00FFFF?style=flat-square&logo=github&logoColor=black) ![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-76B900?style=flat-square&logo=nvidia&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![roboflow](https://img.shields.io/badge/roboflow-FF6F00?style=flat-square&logo=roboflow&logoColor=white) 
 
 ---
 
 ### 🌱 스마트 화분 (자동 급수 + 이용자 피드백)  
-> STM32, Arduino, C  
+
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)  
 
 ---
 
-### 👕 시각장애인 코디 추천 디바이스  
-> YOLO-X, Jetson Nano, Python, C, Qt, OpenVino, OpenCV, AI  
-![YOLO-X](https://img.shields.io/badge/YOLO--X-FFB6C1?style=flat-square&logo=github&logoColor=black) ![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-76B900?style=flat-square&logo=nvidia&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white) ![OpenVINO](https://img.shields.io/badge/OpenVINO-0071C5?style=flat-square&logo=intel&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+### 👕 시각장애인 코디 추천 웨어러블 디바이스  
+ 
+[![Open Project](https://img.shields.io/badge/4_Your_Eyez_Only-Intel7_AI_Project-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wjin08/4_Your_Eyez_Only)
+
+
+![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-76B900?style=flat-square&logo=nvidia&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/wjin08/4_Your_Eyez_Only) 
+[![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)](https://github.com/wjin08/4_Your_Eyez_Only) 
+[![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)](https://github.com/wjin08/4_Your_Eyez_Only/tree/main/qt/4YEO_Server_Manager) 
+[![OpenVINO](https://img.shields.io/badge/OpenVINO-0071C5?style=flat-square&logo=intel&logoColor=white)](https://github.com/wjin08/4_Your_Eyez_Only) 
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://github.com/wjin08/4_Your_Eyez_Only)  
+
 
 ---
 
-### ✋ 손 동작 인식 디바이스 제어 프로그램  
-> OpenCV, Qt, Raspberry Pi, BSP, C  
+### ✋ 손 동작 인식 디바이스 제어 프로그램   
+
+[![Open Project](https://img.shields.io/badge/Hands_are_Faster_Than_Eyes-Intel7_Vison_OpenCV_Project-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wjin08/Intel7_Vison_Dev_Project)
+
+
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white) ![BSP](https://img.shields.io/badge/BSP-2F4F4F?style=flat-square&logo=arm&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)  
 
 ---
