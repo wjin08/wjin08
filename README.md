@@ -114,10 +114,4 @@
   ![Project](https://img.shields.io/badge/Graduation%20Project-2024-orange?style=flat-square&logo=googlescholar&logoColor=white)  
 
 ---
-
-📊 GitHub Stats 📊  
-
-![JinHyuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjin08&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjin08&layout=compact&theme=radical)  
-
 </div>
