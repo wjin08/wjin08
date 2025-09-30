@@ -10,7 +10,6 @@
 🙋 Contact me 🙋  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wjin08/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/wjin08?igsh=MTg0ZTVncDVwMnlpMQ==)  
 
 
 
@@ -19,7 +18,7 @@
 
 ---
 
-✨ Tech Stack ✨  
+✨ **Tech Stack** ✨  
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -31,14 +30,14 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)  
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![YOLOv7](https://img.shields.io/badge/YOLOv7-00FFFF?style=flat-square&logo=github&logoColor=black)
-![YOLO-X](https://img.shields.io/badge/YOLO--X-FFB6C1?style=flat-square&logo=github&logoColor=black)
 ![OpenVINO](https://img.shields.io/badge/OpenVINO-0071C5?style=flat-square&logo=intel&logoColor=white)
 ![roboflow](https://img.shields.io/badge/roboflow-FF6F00?style=flat-square&logo=roboflow&logoColor=white)
 
 ---
 
-📜 Certificates 📜  
+📜 **Certificates** 📜  
 
 | 날짜       | 자격증명          | 발급기관         |
 |-----------|------------------|----------------|
@@ -52,17 +51,29 @@
 
 ### 🗑️ 한강공원 자율주행 쓰레기통 
 
+🥈 **2023 서울시 AIoT 해커톤 – 우수상**  
+
+
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)  
 
 ---
 
 ### 🎒 해외여행 가방 소매치기/도난 방지 디바이스
 
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)  
+🥈 **2024 ICT 디바이스톤 – 우수상**  
+
+**Click Me->**  [![Open Project](https://img.shields.io/badge/TEAM_ARASAKA-2024_ICT_DEVICETON-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wjin08/TEAM_ARASAKA)
+
+
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 
 ---
 
 ### 🛗 엘리베이터 가용체적 판단 및 스케쥴링 디바이스 (Lift Vision)
+
+🥉 **2024 상명대 졸업프로젝트 심사 – 장려상**  
+
 
 ![YOLOv7](https://img.shields.io/badge/YOLOv7-00FFFF?style=flat-square&logo=github&logoColor=black) ![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-76B900?style=flat-square&logo=nvidia&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![roboflow](https://img.shields.io/badge/roboflow-FF6F00?style=flat-square&logo=roboflow&logoColor=white) 
 
@@ -70,7 +81,7 @@
 
 ### 🌱 자동 급수, 조명 + 이용자 피드백 스마트 화분 (Plant-San) 
 
-**Click Me ->**  [![Open Project](https://img.shields.io/badge/プラントさん-Intel7_Mini_Project-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wjin08/Plant_San)
+**Click Me ->** [![Open Project](https://img.shields.io/badge/プラントさん-Intel7_Mini_Project-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wjin08/Plant_San)
 
 
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)  ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)  
@@ -98,16 +109,5 @@
 
 ---
 
-# 🏆 Awards 🏆  
 
-- 🥈 **2023 서울시 AIoT 해커톤 – 우수상**  
-  ![Hackathon](https://img.shields.io/badge/AIoT%20Hackathon-2023-blue?style=flat-square&logo=github&logoColor=white)  
-
-- 🥈 **2024 ICT 디바이스톤 – 우수상**  
-  ![ICT](https://img.shields.io/badge/ICT%20Devicethon-2024-green?style=flat-square&logo=android&logoColor=white)  
-
-- 🥉 **2024 상명대 졸업프로젝트 심사 – 장려상**  
-  ![Project](https://img.shields.io/badge/Graduation%20Project-2024-orange?style=flat-square&logo=googlescholar&logoColor=white)  
-
----
 </div>
