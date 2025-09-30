@@ -53,6 +53,9 @@
 
 🥈 **2023 서울시 AIoT 해커톤 – 우수상**  
 
+**Click Me->** [![Open Project](https://img.shields.io/badge/유연한_사고-2023_Seoul_AIOT_Hackathon-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wjin08/2023_AIOT_Hackathon)
+
+
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)  
 
